@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ES2015",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "jsx": "react",
+        "lib": [
+            "DOM",
+        ],
+        "types": [
+            "vitest/globals",
+        ]
+    }
+}
